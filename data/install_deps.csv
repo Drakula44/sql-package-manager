@@ -1,0 +1,16 @@
+a,b
+openbox,imlib2
+openbox,librsvg
+openbox,libsm
+openbox,libxcursor
+openbox,libxinerama
+openbox,libxml2
+openbox,libxrandr
+openbox,pango
+openbox,startup-notification
+code,electron11
+code,libsecret
+code,libx11
+code,libxkbfile
+code,ripgrep
+code,x11-ssh-askpass
