@@ -43,7 +43,6 @@ create table install_deps (
     dep_name        varchar(200)                                 ,
     primary key (package_name, dep_name)                        ,
     foreign key (package_name) references install_program(package_name)
-    -- contrain needed to dep_name be in install_program or programs   
 );
 create table tmp_update_program (
 	name_version varchar(300) primary key
