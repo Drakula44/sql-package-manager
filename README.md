@@ -13,4 +13,4 @@ The following features were implemented:
 7. Update table files so that you need to populate the files extension field and in case it is a folder put "folder".
 8. Update programs from update_programs to programs and clear unnecessary data
 9. Install programs from install_program only if all dependencies are installed and there are no conflict files. Then clear all unnecessary data
-10. Find a tree of dependencies for programs that are in install_packages. For this one, I needed to use "PL/pgSQL" that is supported in PostgresSQL server. PL/pgSQL adds procedural programming features to the queries.
+10. Find a tree of dependencies for programs that are in install_packages. For this one, I needed to use "PL/pgSQL" which is supported in the PostgresSQL server. PL/pgSQL adds procedural programming features to the queries.
